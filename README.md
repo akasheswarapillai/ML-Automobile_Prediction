@@ -34,8 +34,8 @@ The **All Features Linear Regression model** achieved the best performance with 
 ## How to Run
 
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/akasheswarapillai/ML-Automobile_Prediction
+cd Auto_MPG_Prediction
 pip install pandas numpy matplotlib scikit-learn jupyter
 jupyter notebook
 ```
